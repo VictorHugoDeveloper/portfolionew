@@ -1,6 +1,6 @@
 ## Deway
 - *Desenvolvedor Full Stack* | 01 Set 2021 - 01 Ago 2024
-- ![logo512](../assets/deway.jpg)
+- ![logo512](../portfolionew/assets/deway.jpg)
 - Tags: Deway - EMPRESA
 - Badges:
   - EMPRESA [blue]
@@ -14,7 +14,7 @@
 
 ## Freelance
 - *Desenvolvedor, designer, gerente de tráfego* | 2019 - Hoje
-- ![logo512](../assets/deway.jpg)
+- ![logo512](../portfolionew/assets/deway.jpg)
 - Tags: Freelance
 
 - List Items:
@@ -25,7 +25,7 @@
 
 ## Company 3
 - *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
+- ![logo512](../portfolionew/assets/logo512.png)
 - Tags: Category 3
 - Badges:
   - Badge [blue]
