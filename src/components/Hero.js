@@ -66,7 +66,7 @@ export default function Header({ color }) {
             </Text>
           </Heading>
           <div style={containerStyle}>
-            <img src={PerfilImage} style={imageStyle} />
+            <img src={PerfilImage} alt="Perfil" style={imageStyle} />
           </div>
           <Text
             color={"gray.500"}
